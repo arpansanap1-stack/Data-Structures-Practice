@@ -14,6 +14,3 @@ This repository contains my solutions to various coding challenges and my daily 
 
 ## 📁 Repository Structure
 ```text
-├── Arrays/           # Array manipulation & two-pointer problems
-├── Strings/          # String parsing and matching patterns
-└── README.md         # Overview and progress tracking
