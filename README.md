@@ -5,7 +5,7 @@ This repository contains my solutions to various coding challenges and my daily 
 
 ## 📌 Topics Covered
 - [x] Arrays & Hashing
-- [x] Strings
+- [ ] Strings
 - [ ] Linked Lists
 - [ ] Trees & Graphs
 - [ ] Dynamic Programming
