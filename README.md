@@ -27,7 +27,10 @@ This repository contains my solutions to various coding challenges and my daily 
 │   ├── bubbleSort.cpp
 │   ├── insertionSort.cpp
 │   └── selectionSort.cpp
-│
+│   └── Merge_2_Sorted_Arrays.cpp
+|   └── Next_permutation.cpp
+|
+|
 ├── binary_search/
 │   ├── Agressivecows.cpp
 │   ├── book_allocation.cpp
