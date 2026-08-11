@@ -14,7 +14,7 @@ This repository contains my solutions to various coding challenges and my daily 
 
 ## 📁 Repository Structure
 ```text
-01_Arrays/
+01_Arrays/                                   
 │
 ├── Vector/
 │   └── Maximum_subarr_sum/
@@ -27,7 +27,10 @@ This repository contains my solutions to various coding challenges and my daily 
 │   ├── bubbleSort.cpp
 │   ├── insertionSort.cpp
 │   └── selectionSort.cpp
-│
+│   └── Merge_2_Sorted_Arrays.cpp
+|   └── Next_permutation.cpp
+|
+|
 ├── binary_search/
 │   ├── Agressivecows.cpp
 │   ├── book_allocation.cpp
@@ -47,3 +50,8 @@ This repository contains my solutions to various coding challenges and my daily 
 ├── kadanes_Algo.cpp
 ├── linear_search.cpp
 └── reverse_array.cpp
+
+
+02_String/                              
+│
+├── 
