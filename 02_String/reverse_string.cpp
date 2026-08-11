@@ -21,3 +21,18 @@ public:
     }
 };
 // this program runs with time compleexity of o(n) and space complexity of o(1)
+
+int main() {
+    Solution solution;
+    vector<char> s = {'h', 'e', 'l', 'l', 'o'};
+    
+    solution.reverseString(s);
+    
+    // Output the reversed string
+    for (char c : s) {
+        cout << c;
+    }
+    cout << endl;
+    
+    return 0;
+}
