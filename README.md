@@ -54,4 +54,5 @@ This repository contains my solutions to various coding challenges and my daily 
 
 02_String/                              
 │
-├── reverse_string.cpp/
+├── reverse_string.cpp/\
+├── palindrome.cpp/
