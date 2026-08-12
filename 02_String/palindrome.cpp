@@ -4,9 +4,15 @@
 using namespace std;
 
 bool isPalindrome(string str){
-    string Rev = str;
+    string cleaned = "";
+    for(char c : str){
+        if(isalnum(c)){ 
+            cleaned += tolower(c); 
+        }
+    }
+    string Rev = cleaned;
     reverse(Rev.begin(), Rev.end());
-    return str == Rev;
+    return cleaned == Rev;
 }
 
 int main(){
